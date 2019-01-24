@@ -1,4 +1,4 @@
-# Greg's-List Thinkful Bootcamp
+# Thinkful Bootcamp Checkpoint: Greg's-List 
 
 You are building a search results page as represented in the designs found below this list of requirements. For the prototype you'll demo to your team, you'll provide results to a user search for software jobs.
 
