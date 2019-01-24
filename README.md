@@ -10,6 +10,4 @@ Include a page title (aka, use a <title> element) and meta description in the he
 
 Put the <input> and the element with the magnifying glass in a common <form> element.
 
-Use semantic HTML throughout the page. Take special care on that magnifying glass: are <img> elements meant to be interactive? How can you make a semantic image-like button? Do some Googling!
-
 Don't waste your time looking at how Craiglist (your competitor!) coded up their site, as it doesn't follow best practices.
